@@ -1,0 +1,56 @@
+<Window
+    xmlns="https://github.com/avaloniaui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:vm="clr-namespace:InventorySystem.ViewModels"
+    x:Class="InventorySystem.MainWindow"
+    x:DataType="vm:MainWindowViewModel"
+    mc:Ignorable="d"
+    Title="Item Sorter Robot"
+    Width="650" Height="500">
+
+    <Design.DataContext>
+        <vm:MainWindowViewModel/>
+    </Design.DataContext>
+
+    <StackPanel Margin="20" Spacing="10">
+
+        <!-- Overskrift -->
+        <TextBlock Text="Item Sorter Robot"
+                   FontSize="26"
+                   FontWeight="Bold"
+                   HorizontalAlignment="Center"/>
+
+        <!-- Inventory tabel -->
+        <TextBlock Text="Inventory:" FontWeight="Bold" Margin="0,10,0,0"/>
+        <DataGrid ItemsSource="{Binding Items}"
+                  AutoGenerateColumns="True"
+                  Height="120"/>
+
+        <!-- Current Order tabel -->
+        <TextBlock Text="Current Order:" FontWeight="Bold" Margin="0,10,0,0"/>
+        <DataGrid ItemsSource="{Binding OrderLines}"
+                  AutoGenerateColumns="True"
+                  Height="120"/>
+
+        <!-- Knap -->
+        <Button Content="Process Order"
+                Command="{Binding ProcessOrderCommand}"
+                HorizontalAlignment="Center"
+                Margin="0,10,0,0"/>
+
+        <!-- Revenue -->
+        <TextBlock Text="{Binding Revenue, StringFormat='Revenue: {0:C}'}"
+                   FontSize="16"
+                   FontWeight="Bold"
+                   HorizontalAlignment="Center"/>
+
+        <!-- Status -->
+        <TextBlock Text="{Binding StatusMessages}"
+                   TextWrapping="Wrap"
+                   Height="80"
+                   Margin="0,10,0,0"/>
+
+    </StackPanel>
+</Window>

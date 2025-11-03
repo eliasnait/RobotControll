@@ -1,0 +1,162 @@
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/obj/Debug/net9.0/InventorySystem.csproj.AssemblyReference.cache
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/obj/Debug/net9.0/Avalonia/Resources.Inputs.cache
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/obj/Debug/net9.0/Avalonia/resources
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/obj/Debug/net9.0/InventorySystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/obj/Debug/net9.0/InventorySystem.AssemblyInfoInputs.cache
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/obj/Debug/net9.0/InventorySystem.AssemblyInfo.cs
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/obj/Debug/net9.0/InventorySystem.csproj.CoreCompileInputs.cache
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/obj/Debug/net9.0/InventorySystem.dll
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/obj/Debug/net9.0/refint/InventorySystem.dll
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/obj/Debug/net9.0/InventorySystem.pdb
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/InventorySystem
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/InventorySystem.deps.json
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/InventorySystem.runtimeconfig.json
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/InventorySystem.dll
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/InventorySystem.pdb
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/Avalonia.Base.dll
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/Avalonia.Controls.dll
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/Avalonia.DesignerSupport.dll
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/Avalonia.Dialogs.dll
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/Avalonia.Markup.Xaml.dll
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/Avalonia.Markup.dll
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/Avalonia.Metal.dll
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/Avalonia.MicroCom.dll
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/Avalonia.OpenGL.dll
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/Avalonia.Vulkan.dll
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/Avalonia.dll
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/Avalonia.Controls.ColorPicker.dll
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/Avalonia.Controls.DataGrid.dll
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/Avalonia.Desktop.dll
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/Avalonia.Diagnostics.dll
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/Avalonia.Fonts.Inter.dll
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/Avalonia.FreeDesktop.dll
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/Avalonia.Native.dll
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/Avalonia.Remote.Protocol.dll
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/Avalonia.Skia.dll
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/Avalonia.Themes.Fluent.dll
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/Avalonia.Themes.Simple.dll
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/Avalonia.Win32.Automation.dll
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/Avalonia.Win32.dll
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/Avalonia.X11.dll
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/DynamicData.dll
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/HarfBuzzSharp.dll
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/MicroCom.Runtime.dll
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/ReactiveUI.dll
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/SkiaSharp.dll
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/Splat.dll
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/Splat.Builder.dll
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/Splat.Core.dll
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/Splat.Logging.dll
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/System.Reactive.dll
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/Tmds.DBus.Protocol.dll
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/runtimes/win-arm64/native/av_libglesv2.dll
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/runtimes/win-x64/native/av_libglesv2.dll
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/runtimes/win-x86/native/av_libglesv2.dll
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/runtimes/osx/native/libAvaloniaNative.dylib
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/runtimes/linux-arm/native/libHarfBuzzSharp.so
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/runtimes/linux-arm64/native/libHarfBuzzSharp.so
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/runtimes/linux-loongarch64/native/libHarfBuzzSharp.so
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/runtimes/linux-musl-arm/native/libHarfBuzzSharp.so
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/runtimes/linux-musl-arm64/native/libHarfBuzzSharp.so
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/runtimes/linux-musl-loongarch64/native/libHarfBuzzSharp.so
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/runtimes/linux-musl-riscv64/native/libHarfBuzzSharp.so
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/runtimes/linux-riscv64/native/libHarfBuzzSharp.so
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/runtimes/linux-x64/native/libHarfBuzzSharp.so
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/runtimes/linux-x86/native/libHarfBuzzSharp.so
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/runtimes/osx/native/libHarfBuzzSharp.dylib
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/runtimes/win-arm64/native/libHarfBuzzSharp.dll
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/runtimes/win-x64/native/libHarfBuzzSharp.dll
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/runtimes/win-x86/native/libHarfBuzzSharp.dll
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/runtimes/linux-arm/native/libSkiaSharp.so
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/runtimes/linux-arm64/native/libSkiaSharp.so
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/runtimes/linux-musl-x64/native/libSkiaSharp.so
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/runtimes/linux-x64/native/libSkiaSharp.so
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/runtimes/osx/native/libSkiaSharp.dylib
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/runtimes/win-arm64/native/libSkiaSharp.dll
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/runtimes/win-x64/native/libSkiaSharp.dll
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/bin/Debug/net9.0/runtimes/win-x86/native/libSkiaSharp.dll
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/obj/Debug/net9.0/Inventor.4967888A.Up2Date
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/obj/Debug/net9.0/InventorySystem.genruntimeconfig.cache
+/Users/elias/RiderProjects/InventorySystem/InventorySystem/obj/Debug/net9.0/ref/InventorySystem.dll
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/InventorySystem
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/InventorySystem.deps.json
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/InventorySystem.runtimeconfig.json
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/InventorySystem.dll
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/InventorySystem.pdb
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/Avalonia.Base.dll
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/Avalonia.Controls.dll
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/Avalonia.DesignerSupport.dll
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/Avalonia.Dialogs.dll
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/Avalonia.Markup.Xaml.dll
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/Avalonia.Markup.dll
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/Avalonia.Metal.dll
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/Avalonia.MicroCom.dll
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/Avalonia.OpenGL.dll
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/Avalonia.Vulkan.dll
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/Avalonia.dll
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/Avalonia.Controls.ColorPicker.dll
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/Avalonia.Controls.DataGrid.dll
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/Avalonia.Desktop.dll
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/Avalonia.Diagnostics.dll
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/Avalonia.Fonts.Inter.dll
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/Avalonia.FreeDesktop.dll
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/Avalonia.Native.dll
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/Avalonia.Remote.Protocol.dll
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/Avalonia.Skia.dll
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/Avalonia.Themes.Fluent.dll
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/Avalonia.Themes.Simple.dll
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/Avalonia.Win32.Automation.dll
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/Avalonia.Win32.dll
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/Avalonia.X11.dll
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/DynamicData.dll
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/HarfBuzzSharp.dll
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/MicroCom.Runtime.dll
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/ReactiveUI.dll
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/SkiaSharp.dll
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/Splat.dll
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/Splat.Builder.dll
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/Splat.Core.dll
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/Splat.Logging.dll
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/System.Reactive.dll
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/Tmds.DBus.Protocol.dll
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/runtimes/win-arm64/native/av_libglesv2.dll
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/runtimes/win-x64/native/av_libglesv2.dll
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/runtimes/win-x86/native/av_libglesv2.dll
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/runtimes/osx/native/libAvaloniaNative.dylib
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/runtimes/linux-arm/native/libHarfBuzzSharp.so
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/runtimes/linux-arm64/native/libHarfBuzzSharp.so
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/runtimes/linux-loongarch64/native/libHarfBuzzSharp.so
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/runtimes/linux-musl-arm/native/libHarfBuzzSharp.so
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/runtimes/linux-musl-arm64/native/libHarfBuzzSharp.so
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/runtimes/linux-musl-loongarch64/native/libHarfBuzzSharp.so
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/runtimes/linux-musl-riscv64/native/libHarfBuzzSharp.so
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/runtimes/linux-riscv64/native/libHarfBuzzSharp.so
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/runtimes/linux-x64/native/libHarfBuzzSharp.so
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/runtimes/linux-x86/native/libHarfBuzzSharp.so
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/runtimes/osx/native/libHarfBuzzSharp.dylib
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/runtimes/win-arm64/native/libHarfBuzzSharp.dll
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/runtimes/win-x64/native/libHarfBuzzSharp.dll
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/runtimes/win-x86/native/libHarfBuzzSharp.dll
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/runtimes/linux-arm/native/libSkiaSharp.so
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/runtimes/linux-arm64/native/libSkiaSharp.so
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/runtimes/linux-musl-x64/native/libSkiaSharp.so
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/runtimes/linux-x64/native/libSkiaSharp.so
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/runtimes/osx/native/libSkiaSharp.dylib
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/runtimes/win-arm64/native/libSkiaSharp.dll
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/runtimes/win-x64/native/libSkiaSharp.dll
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/bin/Debug/net9.0/runtimes/win-x86/native/libSkiaSharp.dll
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/obj/Debug/net9.0/InventorySystem.csproj.AssemblyReference.cache
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/obj/Debug/net9.0/Avalonia/Resources.Inputs.cache
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/obj/Debug/net9.0/Avalonia/resources
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/obj/Debug/net9.0/InventorySystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/obj/Debug/net9.0/InventorySystem.AssemblyInfoInputs.cache
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/obj/Debug/net9.0/InventorySystem.AssemblyInfo.cs
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/obj/Debug/net9.0/InventorySystem.csproj.CoreCompileInputs.cache
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/obj/Debug/net9.0/Inventor.4967888A.Up2Date
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/obj/Debug/net9.0/InventorySystem.dll
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/obj/Debug/net9.0/refint/InventorySystem.dll
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/obj/Debug/net9.0/InventorySystem.pdb
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/obj/Debug/net9.0/InventorySystem.genruntimeconfig.cache
+/Users/elias/RiderProjects/InventorySystem test 7/InventorySystem/obj/Debug/net9.0/ref/InventorySystem.dll
